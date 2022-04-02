@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = idea.fernanda@gmail.com
+	name = Fernanda Freitas Martinez
